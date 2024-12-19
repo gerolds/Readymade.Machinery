@@ -1,0 +1,26 @@
+﻿{
+  "name": "com.anglebracket.readymade-machinery",
+  "version": "0.1.0",
+  "displayName": "Readymade.Machinery",
+  "description": "Abstract machines, interpreters, DSLs and execution models that can be used to declare, execute and implement behaviours at a high level of abstraction.",
+  "unity": "6000.0",
+  "unityRelease": "0",
+  "documentationUrl": "https://github.com/gerolds/Readymade.Machinery",
+  "changelogUrl": "https://github.com/gerolds/Readymade.Machinery/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gerolds/Readymade.Machinery/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "Machinery",
+    "Behaviour",
+    "AI",
+    "Engines",
+    "Agents",
+    "Acting"
+  ],
+  "author": {
+    "name": "Gerold Schneider",
+    "email": "",
+    "url": "https://github.com/gerolds"
+  }
+}
