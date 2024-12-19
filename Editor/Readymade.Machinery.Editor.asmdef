@@ -1,0 +1,19 @@
+{
+    "name": "Readymade.Machinery.Editor",
+    "references": [
+        "Readymade.Machinery",
+        "Readymade.Persistence",
+        "NaughtyAttributes.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
